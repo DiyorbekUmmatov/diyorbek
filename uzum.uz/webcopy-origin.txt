@@ -1,0 +1,36 @@
+Uri: https://uzum.uz/ru
+File Name: C:\Downloaded Web Sites\uzum.uz\ru-1.html
+Content Type: text/html
+
+Uri: https://uzum.uz/static/css/app.bf96d61edc68078c481c.css?16da4eff9e944f18815e
+File Name: C:\Downloaded Web Sites\uzum.uz\static\css\app.bf96d61edc68078c481c-1.css
+Content Type: text/css
+
+Uri: https://uzum.uz/static/css/color.css
+File Name: C:\Downloaded Web Sites\uzum.uz\static\css\color-1.css
+Content Type: text/css
+
+Uri: https://uzum.uz/static/css/fonts.css
+File Name: C:\Downloaded Web Sites\uzum.uz\static\css\fonts-1.css
+Content Type: text/css
+
+Uri: https://uzum.uz/static/css/helpers.css
+File Name: C:\Downloaded Web Sites\uzum.uz\static\css\helpers-1.css
+Content Type: text/css
+
+Uri: https://uzum.uz/static/css/styleoff.css
+File Name: C:\Downloaded Web Sites\uzum.uz\static\css\styleoff-1.css
+Content Type: text/css
+
+Uri: https://uzum.uz/static/css/typebase.css
+File Name: C:\Downloaded Web Sites\uzum.uz\static\css\typebase-1.css
+Content Type: text/css
+
+Uri: https://uzum.uz/static/img/icons/favicon.svg
+File Name: C:\Downloaded Web Sites\uzum.uz\static\img\icons\favicon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://uzum.uz/static/js/app.bf96d61edc68078c481c.js?16da4eff9e944f18815e
+File Name: C:\Downloaded Web Sites\uzum.uz\static\js\app.bf96d61edc68078c481c-1.js
+Content Type: application/javascript
+
